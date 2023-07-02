@@ -19,7 +19,7 @@
                 "strength": 20,
                 "rangedStrength": 20,
                 "range": 8,
-                "unitType": "Bomber",
+                "unitType": "Missile",
                 "uniques":["Nuclear Weapon of Strength [1]","Blast radius [0]"],
                 "requiredTech": "Dynamite",
         }
