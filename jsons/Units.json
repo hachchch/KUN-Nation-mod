@@ -8,12 +8,12 @@
                 "unitType": "Gunpowder",
                 "requiredTech": "Dynamite",
                 "promotions": ["Besiege"],
-                "uniques": ["Blast radius [0]"]
+                "uniques": ["Blast radius [0]"],
         },
         {
                 "name": "TNTランチャー",
                 "movement": 1,
-                "uniqueTo": "世界政府"
+                "uniqueTo": "世界政府",
                 "replaces": "Artillery",
                 "cost": 500,
                 "strength": 20,
@@ -23,4 +23,4 @@
                 "uniques":["Blast radius [0]"],
                 "requiredTech": "Dynamite",
         }
-]\
+]
