@@ -8,7 +8,7 @@
                 "unitType": "Gunpowder",
                 "requiredTech": "Dynamite",
                 "promotions": ["Besiege"],
-                "uniques": ["Blast radius [0]"],
+                "uniques": ["Blast radius [1]"],
         },
         {
                 "name": "TNTランチャー",
@@ -20,7 +20,7 @@
                 "rangedStrength": 20,
                 "range": 8,
                 "unitType": "Bomber",
-                "uniques":["Blast radius [0]"],
+                "uniques":["Blast radius [1]"],
                 "requiredTech": "Dynamite",
         }
 ]
