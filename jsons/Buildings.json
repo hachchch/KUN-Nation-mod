@@ -14,7 +14,7 @@
                 "requiredTech": "Education",
                 "cost": 160,
                 "uniqueTo": "クリエ組",
-                "replaces": "Univercity",
+                "replaces": "University",
                 "culture": 2,
                 "uniques": ["[+33]% [Happiness] [in this city]","[+1 Culture] per [2] population [in this city]"]
         }
