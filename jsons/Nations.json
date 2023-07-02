@@ -1,0 +1,25 @@
+[
+        {
+                "name": "世界政府",
+                "leaderName": "INKYATENSEI",
+                "adjective": ["スリザリン"],
+                "preferredVictoryType": "Domination",
+                "declaringWar": "お前もう終わりだよ。",
+                "outerColor": [150,150,0],
+                "innerColor": [255,255,0],
+                "uniqueName": "サバイバルへの熱意",
+                "uniques": ["All newly-trained [Land] units [in all cities] receive the [Survivalism I] promotion"],
+                "cities": ["アトラス","マンハッタン","地帝","ArkCity"],
+        },
+        {
+                "name": "クリエ組",
+                "leaderName": "わどるど",
+                "adjective": ["幼稚園組"],
+                "preferredVictoryType": "Cultural",
+                "outerColor": [255,255,190],
+                "innerColor": [15,50,180],
+                "uniqueName": "「クリエで。」",
+                "uniques": ["[+1 Culture] per [2] population [in all cities]","[+100 Gold,+50 Culture,+50 Science,+50 Production] whenever a Great Person is expended"],
+                "cities": ["コウタウン","コウタウン２","コウタウン３","コウタウン４"],
+        }
+]
