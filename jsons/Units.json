@@ -1,0 +1,26 @@
+[
+        {
+                "name": "TNT歩兵",
+                "movement": 3,
+                "cost": 300,
+                "strength": 30,
+                "uniqueTo": "世界政府",
+                "unitType": "Gunpowder",
+                "requiredTech": "Dynamite",
+                "promotions": ["Besiege"],
+                "uniques": ["Blast radius [0]"]
+        },
+        {
+                "name": "TNTランチャー",
+                "movement": 1,
+                "uniqueTo": "世界政府"
+                "replaces": "Artillery",
+                "cost": 500,
+                "strength": 20,
+                "rangedStrength": 20,
+                "range": 8,
+                "unitType": "Bomber",
+                "uniques":["Blast radius [0]"],
+                "requiredTech": "Dynamite",
+        }
+]\
