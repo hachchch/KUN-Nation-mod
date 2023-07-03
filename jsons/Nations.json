@@ -1,7 +1,7 @@
 [
         {
                 "name": "世界政府",
-                "leaderName": "INKYATENSEI",
+                "leaderName": "陰キャ転生",
                 "adjective": ["スリザリン"],
                 "preferredVictoryType": "Domination",
                 "declaringWar": "お前もう終わりだよ。",
@@ -21,5 +21,9 @@
                 "uniqueName": "「クリエで。」",
                 "uniques": ["[+1 Culture] per [2] population [in all cities]","[+100 Culture] whenever a Great Person is expended"],
                 "cities": ["コウタウン","コウタウン２","コウタウン３","コウタウン４"],
+        },
+        {
+                "name": "駄MENジャーズ",
+                "leader": "のじゃじゃ",
         }
 ]
