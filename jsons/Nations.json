@@ -40,6 +40,6 @@
                 "outerColor": [100,200,120],
                 "innerColor": [255,255,255],
                 "uniqueName": "ガキから老人まで、中卒から京大まで。",
-                "uniques": ["[+1 Food] from every  [Farm]","[+2 Happiness] from every [Fort]","[+3 Science] from every [Great Improvement]","[+1 production] from every [Mine]"],
+                "uniques": ["[+1 Food] from every  [Farm]","[+2 Happiness] from every [Fort]","[+3 Science] from every [Great Improvement]","[+1 Production] from every [Mine]"],
         }
 ]
