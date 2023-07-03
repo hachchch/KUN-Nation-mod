@@ -30,7 +30,7 @@
                 "outerColor": [165,25,60],
                 "innerColor": [255,0,0],
                 "uniqueName": "「29歳博士、就労意欲はナシ」",
-                "uniques": ["[+2 Science,-1 Production,-1 Gold] from every specialists [in all cities]","[-10]% [Production] [in all cities]","[-10]% [Gold] [in all cities]","[+30]% [Science] [in all cities]"],
+                "uniques": ["[+2 Science,-1 Production,-1 Gold] from every specialist [in all cities]","[-10]% [Production] [in all cities]","[-10]% [Gold] [in all cities]","[+30]% [Science] [in all cities]"],
                 "cities": ["駄MENジャーズ"],
         },
         {
