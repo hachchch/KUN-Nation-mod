@@ -11,3 +11,15 @@ NationIcons/世界政府
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+game1.png
+size: 459,459
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
