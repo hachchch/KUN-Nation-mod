@@ -17,7 +17,7 @@ size: 459,459
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-UnitIcons/TNT歩兵
+BuildingIcons/コウタワー
   rotate: false
   xy: 0, 0
   size: 459, 459
