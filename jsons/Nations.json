@@ -43,5 +43,16 @@
                 "uniqueName": "ガキから老人まで、中卒から京大まで。",
                 "uniques": ["[+1 Food] from every  [Farm]","[+2 Happiness] from every [Fort]","[+3 Science] from every [Great Improvement]","[+1 Production] from every [Mine]"],
                 "cities": ["田辺鯖"],
+        },
+        {
+                "name": "HSP連合",
+                "adjective": ["よしよし連合"],
+                "leaderName": "ヒスイ転生",
+                "preferredVictoryType": "Diplomatic",
+                "outerColor": [80,180,135],
+                "innerColor": [150,220,0],
+                "uniqueName": "災害",
+                "uniques": ["[+33]% [Food] from City-States","Military Units gifted from City-States start with [50] XP","Militaristic City-States grant units [5] times as fast when you are at war with a common nation","Gifts of Gold to City-States generate [+10]% more Influence","Can spend Gold to annex or puppet a City-State that has been your ally for [4] turns.","City-State territory always counts as friendly territory.","Allied City-States provide [Science] equal to [+10]% of what they produce for themselves","Allied City-States will occasionally gift Great People","[+20]% resources gifted by City-States","[+20]% Happiness from luxury resources gifted by City-States","City-State Influence recovers at twice the normal rate","[+3 Production] from each Trade Route"],
+                "cities": ["エニカラー","ミッドタウン","新宿"],
         }
 ]
