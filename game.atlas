@@ -11,7 +11,7 @@ NationIcons/世界政府
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/"クリエ組"
+UnitIcons/GOD_Koutan
   rotate: false
   xy: 100, 0
   size: 100, 100
