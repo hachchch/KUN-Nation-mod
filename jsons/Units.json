@@ -29,6 +29,7 @@
                 "strength": 21,
                 "cost": "100",
                 "unitType": "Sword",
+                "uniques": ["Founds a new city <once>"],
                 "uniqueTo": "クリエ組",
         },
 ]
