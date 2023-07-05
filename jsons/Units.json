@@ -25,8 +25,8 @@
         },
         {
                 "name": "GOD_Koutan",
-                "replaces": "Great General",
-                "strength": 34,
+                "replaces": "Settler",
+                "strength": 21,
                 "cost": "100",
                 "unitType": "Sword",
                 "uniqueTo": "クリエ組",
