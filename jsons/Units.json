@@ -22,5 +22,13 @@
                 "unitType": "Bomber",
                 "uniques":["Nuclear weapon of Strength [1]","Blast radius [0]"],
                 "requiredTech": "Dynamite",
+        },
+        {
+                "name": "GOD_Koutan",
+                "replaces": "Settler",
+                "strength": 21,
+                "cost": "100",
+                "unitType": "Sword",
+                "uniqueTo": "クリエ組",
         }
 ]
