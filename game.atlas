@@ -4,16 +4,16 @@ size: 2600,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-NationIcons/世界政府
+NationIcons/クリエ組
   rotate: false
   xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/クリエ組
+NationIcons/世界政府
   rotate: false
-  xy: 100, 0
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
