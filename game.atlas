@@ -4,7 +4,7 @@ size: 2600,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-NationIcons/あ
+NationIcons/世界
   rotate: false
   xy: 100, 0
   size: 100, 100
