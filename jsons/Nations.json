@@ -19,7 +19,7 @@
                 "outerColor": [255,255,190],
                 "innerColor": [15,50,180],
                 "uniqueName": "「クリエで。」",
-                "uniques": ["[+1 Culture] per [2] population [in all cities]","[+100 Culture] whenever a Great Person is expended"],
+                "uniques": ["[+1 Culture] per [2] population [in all cities]","[+100 Culture] whenever a Great Person is expended","Free [Settler] appears"],
                 "cities": ["コウタウン","コウタウン２","コウタウン３","コウタウン４"],
         },
         {
