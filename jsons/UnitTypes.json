@@ -1,0 +1,17 @@
+[
+        {
+                "name": "市民",
+                "movementType": "Land",
+        },
+        {
+                "name": "剣士",
+                "movementType": "Land",
+        },
+        {
+                "name": "戦闘機",
+                "movementType": "Air",
+                "uniques": ["Aircraft","[+4] Sight",
+			"Can see over obstacles",
+			"Can perform Air Sweep","]
+        }
+]
