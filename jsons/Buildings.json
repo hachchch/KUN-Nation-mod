@@ -13,7 +13,7 @@
                 "name": "大学",
                 "cost": 160,
                 "science": 5,
-                "uniques": ["[33]% [Science] [in this city]","[+1 Science] per [2] population [in this city]"]
+                "uniques": ["[33]% [Science] [in this city]","[+1 Science] per [2] population [in this city]"],
         {
                 "name": "子供部屋",
                 "requiredTech": "Printing Press",
@@ -21,7 +21,7 @@
                 "uniqueTo": "クリエ組",
                 "replaces": "大学",
                 "culture": 2,
-                "uniques": ["[+33]% [Happiness] [in this city]","[+1 Culture] per [2] population [in this city]"]
+                "uniques": ["[+33]% [Happiness] [in this city]","[+1 Culture] per [2] population [in this city]"],
         },
         {
                 "name": "よしよし部隊",
