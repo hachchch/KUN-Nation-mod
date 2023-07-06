@@ -6,7 +6,7 @@
                 "strength": 30,
                 "uniqueTo": "世界政府",
                 "unitType": "Gunpowder",
-                "requiredTech": "Dynamite",
+                "requiredTech": "Printing Press",
                 "promotions": ["Besiege"],
                 "uniques": ["Nuclear weapon of Strength [2]","Blast radius [1]"],
         },
@@ -21,7 +21,7 @@
                 "range": 8,
                 "unitType": "Bomber",
                 "uniques":["Nuclear weapon of Strength [1]","Blast radius [0]"],
-                "requiredTech": "Dynamite",
+                "requiredTech": "Printing Press",
         },
         {
                 "name": "GOD_Koutan",
