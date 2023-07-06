@@ -8,7 +8,7 @@
                 "outerColor": [150,150,0],
                 "innerColor": [255,255,0],
                 "uniqueName": "サバイバルへの熱意",
-                "uniques": ["All newly-trained [Land] units [in all cities] receive the [サバイバリズム] promotion","New [Land] units start with [10] Experience [in all cities]"],
+                "uniques": ["All newly-trained [Land] units [in all cities] receive the ["サバイバリズム"] promotion","New [Land] units start with [10] Experience [in all cities]"],
                 "cities": ["アトラス","マンハッタン","地帝","ArkCity"],
         },
         {
