@@ -1,6 +1,6 @@
 [
         {
-                "name": "Bycm era",
+                "name": "Bycm紀",
                 "researchAgreementCost": 150,
 		"startingSettlerCount": 1,
 		"startingWorkerCount": 0,
@@ -13,7 +13,7 @@
 		"iconRGB": [255, 87, 35],
         },
         {
-                "name": "Shaciku era",
+                "name": "社畜時代",
                 "researchAgreementCost": 150,
 		"startingSettlerCount": 1,
 		"startingWorkerCount": 1,
@@ -26,7 +26,7 @@
 		"iconRGB": [255, 87, 35],
         },
         {
-                "name": "shanghai era",
+                "name": "上海時代",
                 "researchAgreementCost": 250,
 		"startingSettlerCount": 1,
 		"startingWorkerCount": 1,
@@ -41,7 +41,7 @@
 		"iconRGB": [157, 39, 176],
         },
         {
-                "name": "kaiwai era",
+                "name": "界隈時代",
                 "researchAgreementCost": 250,
 		"startingSettlerCount": 2,
 		"startingWorkerCount": 1,
@@ -56,7 +56,7 @@
 		"iconRGB": [104, 58, 183],
         },
         {
-                "name": "Survival era",
+                "name": "サバイバル１期",
                 "researchAgreementCost": 300,
 		"startingSettlerCount": 2,
 		"startingWorkerCount": 2,
@@ -71,12 +71,11 @@
 		"iconRGB": [63, 81, 182],
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
-			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
 			"Starting in this era disables religion"
 		]
 	},
         {
-                "name": "Survival2 era",
+                "name": "サバイバル２期",
                 "researchAgreementCost": 350,
 		"startingSettlerCount": 2,
 		"startingWorkerCount": 2,
@@ -91,12 +90,11 @@
 		"iconRGB": [33, 150, 243],
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
-			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
 			"Starting in this era disables religion"
 		]
 	},
         {
-                "name": "Neo era",
+                "name": "ネオ紀",
                 "researchAgreementCost": 400,
 		"startingSettlerCount": 3,
 		"startingWorkerCount": 2,
@@ -111,13 +109,12 @@
 		"iconRGB": [0, 150, 136],
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
-			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
 			"Starting in this era disables religion"
 		]
 	},
         {
-                "name": "Plagin era"
-                "researchAgreementCost": 400,
+                "name": "プラグイン時代"
+                "researchAgreementCost": 500,
 		"startingSettlerCount": 3,
 		"startingWorkerCount": 3,
 		"startingMilitaryUnitCount": 2,
@@ -131,13 +128,12 @@
 		"iconRGB": [76, 176, 81],
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
-			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
 			"Starting in this era disables religion"
 		]
 	},
         {
-                "name": "VC era",
-                "researchAgreementCost": 400,
+                "name": "VC化時代",
+                "researchAgreementCost": 600,
 		"startingSettlerCount": 3,
 		"startingWorkerCount": 3,
 		"startingMilitaryUnitCount": 3,
@@ -151,8 +147,25 @@
 		"iconRGB": [76, 176, 81],
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
-			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
 			"Starting in this era disables religion"
 		]
-	}
+	},
+	{
+		"name": "未来",
+                "researchAgreementCost": 777,
+		"startingSettlerCount": 4,
+		"startingWorkerCount": 4,
+		"startingMilitaryUnitCount": 4,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 80,
+		"citySound": "cityFuture",
+		"embarkDefense": 33,
+		"iconRGB": [76, 176, 81],
+		"uniques": [
+			"May not generate great prophet equivalents naturally",
+			"Starting in this era disables religion"
+		]
 ]
