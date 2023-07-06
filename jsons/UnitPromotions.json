@@ -2,9 +2,9 @@
         {
                 "name": "鋭さI",
                 "uniques": ["[+15]% Strength"],
-		"unitTypes": ["剣士"],
+		"unitTypes": ["Sword"],
 		"column": 1,
-                "row": 4,
+                "row": 10,
 	},
         {
                 "name": "即時回復",
