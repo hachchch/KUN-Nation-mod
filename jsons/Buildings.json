@@ -24,6 +24,6 @@
                 "isNationalWonder": true,
                 "cost": 960,
                 "uniques": ["[2] free [Great War Infantry] units appear","[1] free [Foreign Legion] units appear","[1] free [Infantry] units appear","[1] free [Panzer] units appear","[1] free [Norwegian Ski Infantry] units appear","[1] free [Carolean] units appear","[1] free [Mehal Sefari] units appear","[1] free [Musketeer] units appear","[1] free [Janissary] units appear","[1] free [Minuteman] units appear","[1] free [Tercio] units appear","[2] free [Conquistador] units appear","[1] free [Great General] units appear","[1] free [Knight] units appear"],
-                "requiredTech": "Replaceable part",
+                "requiredTech": "Replaceable Parts",
         }
 ]
