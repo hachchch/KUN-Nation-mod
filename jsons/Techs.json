@@ -10,8 +10,8 @@
 				"name": "Printing Press",
 				"row": 5,
 				"quote": "a",
-				"uniques": ["Starting tech"]
-			}
+				"uniques": ["Starting tech"],
+			},
 		]
-	}
+	},
 ]
