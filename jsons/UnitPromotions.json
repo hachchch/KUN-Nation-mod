@@ -10,4 +10,8 @@
                 "name": "即時回復",
                 "uniques": ["Heal this unit by [50] HP"],
         },
+	{
+		"name": "サバイバリズム",
+		"uniques": ["Ignores terrain cost", "[25]% XP gained from combat"],
+	}
 ]
