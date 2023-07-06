@@ -8,6 +8,6 @@
 	},
         {
                 "name": "即時回復",
-                "Heal this unit by [50] HP",
-        }
+                "uniques": ["Heal this unit by [50] HP"],
+        },
 ]
